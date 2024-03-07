@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Clone</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="#"><i class="fas fa-shopping-cart"></i> Shop</a></li>
+                <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
+                <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+            </ul>
+        </nav>
+        <h1>Amazon Clone</h1>
+        <!-- Add the search bar input field -->
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search products">
+        </div>
+    </header>
+    <main>
+        <div class="product-container">
+            <div class="product prev-product" id="prev-product">
+                <img id="prev-product-image" src="" alt="">
+                <h2 id="prev-product-name"></h2>
+                <p id="prev-product-price"></p>
+                <p id="prev-product-description"></p>
+            </div>
+            <div class="product current-product" id="current-product">
+                <img id="product-image" src="" alt="">
+                <h2 id="product-name"></h2>
+                <p id="product-price"></p>
+                <p id="product-description"></p>
+            </div>
+            <div class="product next-product" id="next-product">
+                <img id="next-product-image" src="" alt="">
+                <h2 id="next-product-name"></h2>
+                <p id="next-product-price"></p>
+                <p id="next-product-description"></p>
+            </div>
+        </div>
+        <!-- Slider buttons -->
+        <div class="buttons">
+            <button id="prevBtn" class="nav-btn prev-btn"><i class="fas fa-chevron-left"></i></button>
+            <button id="nextBtn" class="nav-btn next-btn"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Amazon Clone</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

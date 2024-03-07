@@ -1,0 +1,56 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 799,
+        "image": "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12-spring21_purple_04202021_big.jpg.medium.jpg",
+        "description": "Meet the iPhone 12. 5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera."
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 799,
+        "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S21-Plus-5G-128-256GB-SM-G996U1-US-Model-Unlocked-Cell-Phones-Very-Good-Condition_46af8b5d-3a63-46e8-97d7-3a8f9fa35f00.4243b2ff1db36d328a46f09ad220d988.jpeg",
+        "description": "Introducing the Galaxy S21 5G. Enter the world of epic with a revolutionary camera system that gives you the power to go from ordinary to extraordinary."
+    },
+    {
+        "name": "Google Pixel 5",
+        "price": 699,
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202005/Google_Pixel_4_0.jpeg?size=690:388",
+        "description": "Meet Pixel 5, the ultimate Google phone with the speed of 5G. It can download movies in seconds, take stunning ultrawide photos in any light, and play games without any lag."
+    },
+    {
+        "name": "iPad Pro",
+        "price": 799,
+        "image": "https://www.apple.com/v/ipad-pro/al/images/overview/chip/performance_hero__cxya4f2p5euu_medium.jpg",
+        "description": "iPad Pro. Supercharged by the Apple M1 chip. 12.9-inch Liquid Retina XDR display for extreme dynamic range and stunning color accuracy. 5G capable. A blazing-fast CPU and GPU. All-day battery life."
+    },
+    {
+        "name": "Samsung Galaxy Tab S7",
+        "price": 649,
+        "image": "https://images.samsung.com/is/image/samsung/assets/uk/galaxy-tab-s7/cross-category_hero3_desktop.jpg",
+        "description": "Meet Galaxy Tab S7. Work and play on the ultra smooth 120Hz display, powered by our most powerful chipset. Get a PC-like experience with the snap of a keyboard, or use the ultra low latency S Pen to write like never before."
+    },
+    {
+        "name": "Microsoft Surface Pro 7",
+        "price": 899,
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3ArhS?ver=cf3e&q=90&m=6&h=157&w=279&b=%23FFFFFFFF&l=f&x=130&y=0&s=2764&d=1655&aim=true",
+        "description": "At the office, at home, or en route, new Surface Pro 7 adapts to the way you work with laptop-to-tablet versatility. And now, it delivers more power than ever, with a laptop-class Intel Core processor, all-day battery, Instant On, improved graphics, and longer standby time — plus more multitasking connections, including both USB-C and USB-A ports."
+    },
+    {
+        "name": "Dell UltraSharp U3419W",
+        "price": 899,
+        "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/monitors/dell/ultrasharp/uhd/dell-ultrasharp-34-curved-usb-c-monitor-u3419w/design_features_overview/usplash1.jpg",
+        "description": "Discover precision performance on this 34' curved USB-C monitor that heightens your viewing experience. The innovative ultra-thin monitors have a minimalistic design for maximum impact."
+    },
+    {
+        "name": "LG 27UK650-W",
+        "price": 449,
+        "image": "https://www.lg.com/us/images/monitors/md05997277/gallery/desktop-01-lg.jpg",
+        "description": "The LG 27UK650-W is an Ultra HD 4K monitor with Radeon FreeSync™ Technology and is optimized for gamers needs. This monitor features a 27 inch IPS display with HDR10 and USB Type-C connectivity."
+    },
+    {
+        "name": "ASUS ROG Swift PG279Q",
+        "price": 599,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71ejU8p4oRL._AC_SL1500_.jpg",
+        "description": "The ASUS ROG Swift PG279Q Gaming Monitor is a 27' WQHD (2560x1440) IPS display with a 165Hz refresh rate. Equipped with NVIDIA G-SYNC technology, the ROG Swift PG279Q provides smooth, fast, and breathtaking gaming visuals."
+    }
+]
